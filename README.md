@@ -1,1 +1,1 @@
-# DecimateUar
+# DECIMATE UAR
